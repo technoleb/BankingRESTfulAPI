@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.Test\\BankingRESTfulService.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.API\\BankingRESTfulService.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.API\\BankingRESTfulService.API.csproj",
+        "projectName": "BankingRESTfulService.API",
+        "projectPath": "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.API\\BankingRESTfulService.API.csproj",
+        "packagesPath": "C:\\Users\\Niren Patel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Niren Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.Test\\BankingRESTfulService.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.Test\\BankingRESTfulService.Test.csproj",
+        "projectName": "BankingRESTfulService.Test",
+        "projectPath": "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.Test\\BankingRESTfulService.Test.csproj",
+        "packagesPath": "C:\\Users\\Niren Patel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Niren Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.Web\\BankingRESTfulService.Web.csproj": {
+                "projectPath": "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.Web\\BankingRESTfulService.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.Web\\BankingRESTfulService.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.Web\\BankingRESTfulService.Web.csproj",
+        "projectName": "BankingRESTfulService.Web",
+        "projectPath": "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.Web\\BankingRESTfulService.Web.csproj",
+        "packagesPath": "C:\\Users\\Niren Patel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Niren Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.API\\BankingRESTfulService.API.csproj": {
+                "projectPath": "C:\\Users\\Niren Patel\\Desktop\\DD2\\BankingRESTfulService\\BankingRESTfulService.API\\BankingRESTfulService.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
