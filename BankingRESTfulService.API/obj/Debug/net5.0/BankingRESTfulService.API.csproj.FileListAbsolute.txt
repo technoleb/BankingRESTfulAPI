@@ -1,0 +1,15 @@
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\obj\Debug\net5.0\BankingRESTfulService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\obj\Debug\net5.0\BankingRESTfulService.API.AssemblyInfoInputs.cache
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\obj\Debug\net5.0\BankingRESTfulService.API.AssemblyInfo.cs
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\obj\Debug\net5.0\BankingRESTfulService.API.csproj.CoreCompileInputs.cache
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\bin\Debug\net5.0\BankingRESTfulService.API.deps.json
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\bin\Debug\net5.0\BankingRESTfulService.API.dll
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\bin\Debug\net5.0\ref\BankingRESTfulService.API.dll
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\bin\Debug\net5.0\BankingRESTfulService.API.pdb
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\obj\Debug\net5.0\staticwebassets\BankingRESTfulService.API.StaticWebAssets.Manifest.cache
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\obj\Debug\net5.0\staticwebassets\BankingRESTfulService.API.StaticWebAssets.xml
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\obj\Debug\net5.0\scopedcss\bundle\BankingRESTfulService.API.styles.css
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\obj\Debug\net5.0\BankingRESTfulService.API.RazorTargetAssemblyInfo.cache
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\obj\Debug\net5.0\BankingRESTfulService.API.dll
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\obj\Debug\net5.0\ref\BankingRESTfulService.API.dll
+C:\Users\Niren Patel\Desktop\DD2\BankingRESTfulService\BankingRESTfulService.API\obj\Debug\net5.0\BankingRESTfulService.API.pdb
